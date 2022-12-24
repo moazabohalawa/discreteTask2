@@ -1,0 +1,8 @@
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\bin\Debug\DiscreteTask2.exe.config
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\bin\Debug\DiscreteTask2.exe
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\bin\Debug\DiscreteTask2.pdb
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\obj\Debug\DiscreteTask2.csproj.AssemblyReference.cache
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\obj\Debug\DiscreteTask2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\obj\Debug\DiscreteTask2.csproj.CoreCompileInputs.cache
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\obj\Debug\DiscreteTask2.exe
+C:\Users\moaza\source\repos\DiscreteTask2\DiscreteTask2\obj\Debug\DiscreteTask2.pdb
